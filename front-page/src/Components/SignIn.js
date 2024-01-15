@@ -35,7 +35,7 @@ const SignIn = () => {
                     }
                 }    
             })
-            alert('Check your Email for verification link')
+            alert('You have Signed In')
         }catch(error){
             alert(error)
         }
